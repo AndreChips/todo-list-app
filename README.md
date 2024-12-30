@@ -1,6 +1,6 @@
 # Todo List Application
 
-A React-based todo list application with filtering capabilities and responsive design.
+A React-based todo list application.
 
 ## Features
 
@@ -74,30 +74,3 @@ Configure the following environment variables in your deployment platform:
 
 - `NEXT_PUBLIC_API_BASE_URL`: Your API base URL
 - `API_KEY`: Your API key (keep this secret!)
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'feat: add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## Code Style
-
-This project uses:
-
-- ESLint for code linting
-- Prettier for code formatting
-- TypeScript for type safety
-
-## Security Considerations
-
-- API keys are stored in environment variables
-- CORS policies are implemented
-- Input validation is performed
-- Security headers are configured
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
